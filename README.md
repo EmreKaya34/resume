@@ -6,7 +6,6 @@ This project is a simple resume/CV website prepared with HTML and CSS.
 
 - `index.html`: Main resume page
 - `style.css`: Design and responsive layout
-- `.nojekyll`: Helps GitHub Pages publish the site as a plain static website
 
 ## What to edit
 
